@@ -1,1 +1,17 @@
-
+###### Сервер 
+![image](https://user-images.githubusercontent.com/92955179/146650605-0f29fccc-9d61-4aa2-a52b-e202a577751b.png)
+###### Возможность регистрировать или делать log in пользователя
+![image](https://user-images.githubusercontent.com/92955179/146650664-dcf1d837-f331-40aa-8638-3a92c45843b0.png)
+###### Выполним разные действия, нужно предусмотреть, как это указывается в запросе. Фактически, вам нужно придумать набор команд. Причем, многие такие команды требуют передачи дополнительной информации
+###### создали файл
+![image](https://user-images.githubusercontent.com/92955179/146650909-24d669f5-bf96-450f-b2d7-54b285fefa0f.png)
+![image](https://user-images.githubusercontent.com/92955179/146650964-d19d3d70-e4a8-4c08-b3ac-a63322fe1c7c.png)
+###### посмотрим содержимое директории
+![image](https://user-images.githubusercontent.com/92955179/146650984-63980cda-4aaf-4a63-b126-fe8e16f73460.png)
+###### создадим директорию 
+![image](https://user-images.githubusercontent.com/92955179/146651122-259ab781-f7ce-4702-9e5e-558e334e670e.png)
+![image](https://user-images.githubusercontent.com/92955179/146651148-52d63512-268e-4cc3-963e-f3f19a4329a8.png)
+###### Условие, что мы не можем выйти из своей директории
+![image](https://user-images.githubusercontent.com/92955179/146651015-b5abbc66-5b60-4e66-9de3-08a8b1e43f58.png)
+###### Также создается файл log, где хранятся все данные
+![image](https://user-images.githubusercontent.com/92955179/146651172-649ac540-48c4-4759-b6fb-1f6a7eb69486.png)
