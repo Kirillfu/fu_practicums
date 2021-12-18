@@ -1,0 +1,18 @@
+Date: Sat, 18 Dec 2021 20:12:56 GTM
+Addr: ('127.0.0.1', 56781)
+File: C:\Users\Kirill\Desktop\practicum\index.html
+Date: Sat, 18 Dec 2021 20:12:56 GTM
+Addr: ('127.0.0.1', 56782)
+File: C:\Users\Kirill\Desktop\practicum\404.html
+Date: Sat, 18 Dec 2021 20:13:40 GTM
+Addr: ('127.0.0.1', 53084)
+File: C:\Users\Kirill\Desktop\practicum\index.html
+Date: Sat, 18 Dec 2021 20:13:40 GTM
+Addr: ('127.0.0.1', 53085)
+
+Date: Sat, 18 Dec 2021 20:26:07 GTM
+Addr: ('127.0.0.1', 53341)
+File: C:\Users\Nikita\Desktop\Кирилл практкикум\car.jpg
+Date: Sat, 18 Dec 2021 20:26:07 GTM
+Addr: ('127.0.0.1', 53342)
+File: C:\Users\Nikita\Desktop\Кирилл практкикум\404.html
