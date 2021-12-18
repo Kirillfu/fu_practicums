@@ -10,5 +10,5 @@
 ###### Если нет файла в директории, то ошибка 404
 ![image](https://user-images.githubusercontent.com/92955179/146650041-65ef4eee-9457-4bc2-bf7f-0cc20df91090.png)
 ###### Все наши логи хронятся в созданном файле
-![image](https://user-images.githubusercontent.com/92955179/146650088-8108b987-4976-4772-8f3a-406467712a0e.png)
+![image](https://user-images.githubusercontent.com/92955179/146650212-e58a4252-5039-4163-995f-451d2108108b.png)
 
