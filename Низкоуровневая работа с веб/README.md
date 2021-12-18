@@ -2,7 +2,7 @@
 ##### Запускаем сервер
 ![image](https://user-images.githubusercontent.com/92955179/146649803-d0b777d0-7d2b-4afb-a344-ab0d02d30570.png)
 ###### Проверяем работоспособность index.html при вводе с локального хоста
-![image](https://user-images.githubusercontent.com/92955179/146649850-14eacc55-9344-4e78-8344-84c6b1de0a7f.png)
+![image](https://user-images.githubusercontent.com/92955179/146650189-60e61ceb-42e9-4443-99d4-d8371e21ebc2.png)
 ###### Проверка работы разных возмножных форматов 
 ![image](https://user-images.githubusercontent.com/92955179/146649924-480f86e8-cc6b-436a-bebc-c6c1bad4d96f.png)
 ###### Добавьте возможность запрашивать только определенные типы файлов (.html, .css, .js и так далее). При запросе неразрешенного типа, верните ошибку 403.
