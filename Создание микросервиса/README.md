@@ -2,3 +2,10 @@
 ![image](https://user-images.githubusercontent.com/92955179/147141123-bea6288a-0758-4284-bc67-302343394a8b.png)
 #### Сервис должен хранить следующую информацию про каждого пользователя: логин, хеш пароля (лучше с солью), дату регистрации.
 #### Здесь мы же сделали хеширование пароля для нового пользоваеля, которого создавали выше
+![image](https://user-images.githubusercontent.com/92955179/147141767-910147c1-7d4f-4eeb-8d38-cb9831aba868.png)
+#### Настройте веб-сервер по Вашему выбору (Apache2 или nginx) таким образом, чтобы он поддерживал соединение по протоколу HTTPS. Для этого сгенирируйте самоподписанный сертификат SSL
+![image](https://user-images.githubusercontent.com/92955179/147142784-4e88d110-26b6-490c-ba3d-b47ee5741b5a.png)
+![image](https://user-images.githubusercontent.com/92955179/147142835-12861701-98c7-4115-bd7c-13b845420d28.png)
+![image](https://user-images.githubusercontent.com/92955179/147142852-471485fc-ad71-40c3-b35b-42a5f957c1a0.png)
+#### Поддержка защищенного соединения, если попробуем зайти с несуществующего пользователя
+![image](https://user-images.githubusercontent.com/92955179/147142896-048cfc48-cb67-4441-bc93-0244c3bbd9d6.png)
