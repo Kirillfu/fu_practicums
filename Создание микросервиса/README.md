@@ -8,4 +8,4 @@
 ![image](https://user-images.githubusercontent.com/92955179/147142835-12861701-98c7-4115-bd7c-13b845420d28.png)
 ![image](https://user-images.githubusercontent.com/92955179/147142852-471485fc-ad71-40c3-b35b-42a5f957c1a0.png)
 #### Поддержка защищенного соединения, если попробуем зайти с несуществующего пользователя
-![image](https://user-images.githubusercontent.com/92955179/147142896-048cfc48-cb67-4441-bc93-0244c3bbd9d6.png)
+![image](https://user-images.githubusercontent.com/92955179/147143430-cbbf0141-9cfd-46aa-813f-3ba184b279b9.png)
